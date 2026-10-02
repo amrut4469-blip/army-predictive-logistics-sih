@@ -17,7 +17,7 @@
   </g>
   <path d="M60 230 L260 170 L420 200 L640 110 L820 150 L1140 70" fill="none" stroke="url(#accent)" stroke-width="4" stroke-dasharray="10 8"/>
   <g fill="#ff9933"><circle cx="260" cy="170" r="7"/><circle cx="640" cy="110" r="7"/><circle cx="1140" cy="70" r="9"/></g>
-  <text x="60" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" fill="#ffffff">RASAD-AI</text>
+  <text x="60" y="125" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="800" fill="#ffffff">Agnilogix</text>
   <text x="60" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#d7e8dc">Predictive Logistics &amp; Forward Supply Chain</text>
   <text x="60" y="262" font-family="Segoe UI, Arial, sans-serif" font-size="20" fill="#ff9933">Smart India Hackathon 2026  |  SIH26251  |  Indian Army</text>
 </svg>
