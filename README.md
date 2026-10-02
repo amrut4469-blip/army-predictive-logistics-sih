@@ -59,7 +59,39 @@ Forward posts in remote, high-altitude and hazardous terrain depend on long supp
 - ✅ **Human in the loop** — the commander reviews and approves every AI plan
 
 ## 🏗️ Architecture
+## 🧭 How a Commander Uses It
 
+1. Open the dashboard and see every post's **days of cover** at a glance.
+2. Red and amber posts are ranked by **stock-out risk**.
+3. The system proposes a **dispatch plan** (routes + loads) that already accounts for weather and road status.
+4. The commander **reviews, edits and approves**. The AI never acts on its own.
+5. Use the **what-if simulator**: "What if the pass closes for 5 days?" and see the revised plan instantly.
+
+## 🖼️ Demo & Screenshots
+
+> Screenshots and demo video will be added as modules are completed.
+
+| Command Dashboard | Stock-out Risk | What-if Simulator |
+| :---: | :---: | :---: |
+| *coming soon* | *coming soon* | *coming soon* |
+
+## 🎯 Impact Targets
+
+These are design **targets** to be validated on the prototype, not claimed results.
+
+| Metric | Target |
+| --- | --- |
+| Forecast error (MAPE) | Beat a moving-average baseline |
+| Stock-outs | Fewer than the reactive approach |
+| Emergency resupply runs | Reduced through early alerts |
+| Planning time | Hours to minutes |
+
+## 🔐 Security & Responsible Use
+
+- Designed for **on-prem / air-gapped** deployment, no mandatory cloud dependency
+- **Role-based access** and **audit logs** for every decision
+- **Human in the loop**: AI recommends, the commander decides
+- Only **synthetic data** is used in this public repository
 ```mermaid
 flowchart LR
     A[Data Sources<br/>stock • consumption • weather • roads] --> B[Ingestion & Cleaning]
