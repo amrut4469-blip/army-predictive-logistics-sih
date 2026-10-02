@@ -46,7 +46,7 @@ Forward posts in remote, high-altitude and hazardous terrain depend on long, fra
 
 ## 💡 Our Solution
 
-**RASAD-AI** closes the loop between *sensing*, *predicting*, *alerting* and *delivering*.
+**AGNILOGIX** closes the loop between *sensing*, *predicting*, *alerting* and *delivering*.
 
 |       Step      | What happens                                                                     |
 | :-------------: | -------------------------------------------------------------------------------- |
@@ -137,7 +137,7 @@ flowchart LR
 
 # 📚 Documentation
 
-All major RASAD-AI technical documentation is available inside the `docs/` folder.
+All major **AGNILOGIX** technical documentation is available inside the `docs/` folder.
 
 You can **click any file below to open it directly on GitHub**.
 
@@ -145,7 +145,7 @@ You can **click any file below to open it directly on GitHub**.
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | 📌 [Problem Statement](docs/problem-statement.md)          | SIH problem understanding, objectives, challenges and expected outcomes      |
 | 🏗️ [Solution Architecture](docs/solution-architecture.md) | Complete system architecture and technology layers                           |
-| 🔄 [System Workflow](docs/system-workflow.md)              | End-to-end RASAD-AI workflow                                                 |
+| 🔄 [System Workflow](docs/system-workflow.md)              | End-to-end AGNILOGIX workflow                                                |
 | 🤖 [AI/ML Model](docs/ai-ml-model.md)                      | Demand forecasting, model pipeline, evaluation and monitoring                |
 | 🗺️ [Route Optimization](docs/route-optimization.md)       | OR-Tools, VRP, constraints and disruption-aware routing                      |
 | 🗄️ [Database Design](docs/database-design.md)             | PostgreSQL/PostGIS database architecture and entities                        |
