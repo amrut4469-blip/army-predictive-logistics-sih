@@ -323,6 +323,7 @@ No classified, restricted, confidential, or operationally sensitive information 
 | Rutuja Memane    | Frontend  |
 | Amrut Walke      | Backend   |
 | Shravani Kumbhar | Idea      |
+| Abhinav Thorat   | Research  |
 
 ---
 
